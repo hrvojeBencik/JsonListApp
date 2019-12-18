@@ -1,16 +1,13 @@
-# json_list_app
+# JsonListApp
 
-A new Flutter project.
+## About the application
+This is the application where i am using randomly generated JSON data to present list of users. 
+Every user has its own index, name, email, about section and picture.
+There is listview where all of users are listed and it is infinite, that means that i can get more users and everything will stay the same.
+Also every user in a listview is clickable and then it is redirected to the "About me" page.
 
-## Getting Started
+There are screenshots of both screens:
 
-This project is a starting point for a Flutter application.
+![HomePage](https://user-images.githubusercontent.com/26110447/71096538-c74d9d00-21ae-11ea-9ba3-b980cd9a3483.png)
+![AboutMePage](https://user-images.githubusercontent.com/26110447/71096556-d0d70500-21ae-11ea-98e0-e10f7afc9a65.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
